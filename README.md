@@ -1,1 +1,1 @@
-# Secured-RestCall-Java-Execute-Arround-Pattern
+# JAVA-Secured-RestCall-Execute-Arround-Pattern
